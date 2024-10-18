@@ -1,6 +1,8 @@
 # Self-balancing Two-wheeled Robot using PID Controller and MPU6050 IMU
 This repository contains the code and documentation for a self-balancing two-wheeled robot built using a PID controller and an MPU6050 Inertial Measurement Unit (IMU).
 
+Project Video: https://youtu.be/h7SCwEhvALs
+
 ### Project Overview
 The goal of this project is to build a robot that can balance on two wheels without falling over. To achieve this, we are using a PID controller to control the motors and an MPU6050 IMU to measure the angle of the robot.
 
